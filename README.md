@@ -13,10 +13,10 @@ headlines.
 | # | Story | Where |
 |---|---|---|
 | 1 | Trump announces fresh tariffs on 14 partners, China at up to 40% and the EU among them | Washington, USA |
-| 2 | A fuel tanker crashes and burns on a Cairo ring road, killing 31 and injuring 21 | Cairo, Egypt |
-| 3 | Poland says it will create a no-fly zone on its Ukrainian border after Russian airspace violations | Warsaw, Poland |
-| 4 | Houthis claim a strike on Saudi Arabia's Ras Tanura refinery, the kingdom's largest | Ras Tanura, Saudi Arabia |
-| 5 | China launches Shenzhou-24 carrying Pakistan's first astronaut to the Tiangong station | Jiuquan, China |
+| 2 | A fuel tanker crashes and burns on the Ring Road at Al-Warraq, killing 31 and injuring 21 | Cairo, Egypt |
+| 3 | Poland says it will create a no-fly zone on its Ukrainian border after airspace violations, starting at the end of December or in early January | Warsaw, Poland |
+| 4 | Houthis claim a strike on Saudi Arabia's Ras Tanura refinery, the kingdom's largest, with satellite imagery showing thick smoke | Ras Tanura, Saudi Arabia |
+| 5 | China launches Shenzhou-24 carrying Pakistan's first astronaut, with three crew aboard | Jiuquan, China |
 | 6 | Solomon Islands name Australia their primary security partner in a treaty that excludes China | Honiara, Solomon Islands |
 
 Also on the page: Bangladesh's garment workers win a 36% minimum-wage rise after
@@ -45,7 +45,7 @@ side, square, bytes on disk equal to the bytes read), so two runs write
 identical bytes by construction:
 
 ```
-copied .../art/entry.png -> out/entry.png (405809 bytes, 1024x1024, sha256 79f86d7f40be4498)
+copied .../art/entry.png -> out/entry.png (405237 bytes, 1024x1024, sha256 ...)
 ```
 
 ## Re-render it
