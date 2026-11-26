@@ -1,0 +1,7 @@
+# local determinism runs, never published
+out/
+out1/
+out2/
+# the renderer's own scratch output
+art/__pycache__/
+__pycache__/
